@@ -111,5 +111,3 @@ MIT License – Use freely for personal and commercial projects!
 
 
 
-**Ready to give your computer a face memory?**  
-👉 `git clone` and run in 60 seconds! 👈
